@@ -1,0 +1,261 @@
+BODY {
+	FONT-SIZE: 12px; MARGIN: 5px; COLOR: #000000; SCROLLBAR-ARROW-COLOR: #000066; SCROLLBAR-TRACK-COLOR: #99ccff; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #99ccff
+}
+.zahlavi {
+	
+}
+.zapati {
+	TEXT-ALIGN: center
+}
+TABLE {
+	BORDER-COLLAPSE: collapse
+}
+.blok-cely {
+	
+}
+.blok-hlava {
+	BACKGROUND-POSITION: left top; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(point.gif); VERTICAL-ALIGN: middle; COLOR: #ffffff; TEXT-INDENT: 13pt; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 18px; BACKGROUND-COLOR: #000066; TEXT-ALIGN: left
+}
+.blok-telo {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #dfefff; TEXT-ALIGN: left
+}
+A {
+	FONT-SIZE: 100%; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+A:link {
+	FONT-WEIGHT: bold; COLOR: #000066; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-WEIGHT: bold; COLOR: #000066; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-WEIGHT: bold; COLOR: #999999; TEXT-DECORATION: none
+}
+A:active {
+	FONT-WEIGHT: bold; COLOR: #000066; TEXT-DECORATION: none
+}
+A.clanek:link {
+	FONT-WEIGHT: bold; COLOR: #000066; TEXT-DECORATION: none
+}
+A.clanek:visited {
+	FONT-WEIGHT: bold; COLOR: #000066; TEXT-DECORATION: none
+}
+A.clanek:hover {
+	FONT-WEIGHT: bold; COLOR: #999999; TEXT-DECORATION: none
+}
+A.clanek:active {
+	FONT-WEIGHT: bold; COLOR: #000066; TEXT-DECORATION: none
+}
+.horni-navig-lista A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.horni-navig-lista A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.horni-navig-lista A:hover {
+	COLOR: #999999; TEXT-DECORATION: none
+}
+.horni-navig-lista A:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.std-navig A:link {
+	COLOR: #000066
+}
+.std-navig A:visited {
+	COLOR: #000066
+}
+.std-navig A:hover {
+	COLOR: #999999
+}
+.std-navig A:active {
+	COLOR: #000066
+}
+.z {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.nadpis {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.podnadpis {
+	FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.kom-z {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.kom-link {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.kom-hlavicka {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; COLOR: #000000; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.kom-text {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; BORDER-LEFT: #000000 1px solid; COLOR: #000000; PADDING-TOP: 3px; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #eeeeee
+}
+.kom-cely-ram {
+	
+}
+.anketa-std-ram {
+	WIDTH: 420px; TEXT-ALIGN: left
+}
+.anketa-std-otazka {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.anketa-std-odpovedi {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.anketa-cla-celkovy-ram {
+	BORDER-RIGHT: #003098 1px dashed; PADDING-RIGHT: 6px; BORDER-TOP: #003098 1px dashed; PADDING-LEFT: 6px; FONT-SIZE: 12px; PADDING-BOTTOM: 6px; MARGIN: 6px; BORDER-LEFT: #003098 1px dashed; WIDTH: 460px; COLOR: #000000; PADDING-TOP: 6px; BORDER-BOTTOM: #003098 1px dashed; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.anketa-cla-ram {
+	WIDTH: 420px; TEXT-ALIGN: left
+}
+.anketa-cla-otazka {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.anketa-cla-odpovedi {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.anketa-blok-z {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.anketa-blok-odpovedi {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.anketa-blok-odp-cara {
+	MARGIN-TOP: 4px; FONT-SIZE: 6px; MARGIN-BOTTOM: 4px; WIDTH: 140px; BACKGROUND-COLOR: #dee7ff; TEXT-ALIGN: left
+}
+.anketa-blok-odp-cara-hlasy {
+	BACKGROUND-COLOR: #000066
+}
+.cla-nadpis {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; MARGIN: 0px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.cla-text {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.cla-informace {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.cla-informace-tisk {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.hodnoceni-celkovy-ram {
+	FONT-SIZE: 10px; MARGIN: 6px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: right
+}
+.souvis-cla-celkovy-ram {
+	FONT-SIZE: 13px; MARGIN: 6px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.download-z {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.download-sekce {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-SIZE: 13px; PADDING-BOTTOM: 6px; COLOR: #000000; PADDING-TOP: 6px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.download-sekce-akt {
+	FONT-WEIGHT: bold
+}
+.weblinks-z {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.weblinks-sekce {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-SIZE: 13px; PADDING-BOTTOM: 6px; COLOR: #000000; PADDING-TOP: 6px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.weblinks-sekce-akt {
+	FONT-WEIGHT: bold
+}
+.std-navig {
+	FONT-SIZE: 13px; MARGIN-BOTTOM: 1.2em; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.std-navig-akt-str {
+	FONT-WEIGHT: bold
+}
+.kal-text {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.kal-clanek {
+	BACKGROUND-COLOR: #c7f1c7
+}
+.kal-dnesni {
+	BACKGROUND-COLOR: #c1e0ff
+}
+.nov-datum {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.nov-titulek {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.nov-titulek-duraz {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ff0000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.nov-text {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.banner-text {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.banner-img {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.strankovani {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.chybastredni {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ff0000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.planakci {
+	FONT-SIZE: 10px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.informace {
+	FONT-SIZE: 9px; WIDTH: 100%; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.mezera {
+	WIDTH: 5px
+}
+.ohr {
+	WIDTH: auto
+}
+.modryram {
+	BORDER-RIGHT: #000066 2px; PADDING-RIGHT: 3px; BORDER-TOP: #000066 2px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; MARGIN: 3px; BORDER-LEFT: #000066 2px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #000066 2px solid; BACKGROUND-COLOR: #dfefff
+}
+.premodryram {
+	BORDER-RIGHT: #000066 2px; PADDING-RIGHT: 3px; BORDER-TOP: #000066 2px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; MARGIN: 3px; BORDER-LEFT: #000066 2px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #000066 2px solid; BACKGROUND-COLOR: #dfefff
+}
+.horni-navig-lista {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.textbox {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; SCROLLBAR-FACE-COLOR: #cccccc; FONT-SIZE: x-small; BACKGROUND: white; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; BORDER-LEFT: #000000 1px solid; SCROLLBAR-SHADOW-COLOR: #ffffff; COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #000000; SCROLLBAR-TRACK-COLOR: #ffffff; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; TEXT-ALIGN: left
+}
+.textpole {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.tl {
+	BORDER-RIGHT: #ff0000 1px solid; BORDER-TOP: #ff0000 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BORDER-LEFT: #ff0000 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #ff0000 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #000066; TEXT-ALIGN: center
+}
+.inverzA:link {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.inverzA:visited {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.inverzA:hover {
+	FONT-WEIGHT: bold; COLOR: #999999; TEXT-DECORATION: none
+}
+.inverzA:active {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none
+}
+TD {
+	FONT-SIZE: 12px
+}
+.programpopis {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.programtext {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.image {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+HR {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000066; HEIGHT: 2px; BACKGROUND-COLOR: #000066; BORDER-RIGHT-WIDTH: 0px
+}
