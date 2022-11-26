@@ -1,0 +1,39 @@
+BODY, TABLE {
+  scrollbar-face-color: #F0E0A0;
+  scrollbar-highlight-color: #FDFAEA;
+  scrollbar-shadow-color: #393939;
+  scrollbar-3dlight-color: #393939;
+  scrollbar-darkshadow-color: #393939;
+  scrollbar-track-color: #FAF0D0;
+  scrollbar-arrow-color: #393939; }
+
+HR {color: #000000}
+
+a {color: #2222A0; text-decoration : none;}
+a:visited {color: #A030C0; text-decoration : none;}
+a:active {color: #CC5050;  text-decoration : underline;}
+a:hover {color : #EE2020; text-decoration : underline || overline;}
+
+.menu_L A {font-weight: bold; font-family: "Tahoma", "ARIAL CE", "HELVETICA CE","ARIAL","HELVETICA"; font-size: 16px; TEXT-DECORATION: none; COLOR: #2222A0}
+.menu_L A:visited {font-weight: bold; font-family: "Tahoma", "ARIAL CE", "HELVETICA CE","ARIAL","HELVETICA"; font-size: 16px; TEXT-DECORATION: none; COLOR: #A030C0}
+.menu_L A:active {font-weight: bold; font-family: "Tahoma", "ARIAL CE", "HELVETICA CE","ARIAL","HELVETICA"; font-size: 16px; TEXT-DECORATION: underline; COLOR: #CC5050}
+.menu_L A:hover {font-weight: bold; font-family: "Tahoma", "ARIAL CE", "HELVETICA CE","ARIAL","HELVETICA"; font-size: 16px; TEXT-DECORATION: underline || overline; COLOR: #EE2020}
+
+.menu_N {font-family: "Verdana", "Tahoma", "ARIAL CE", "ARIAL"; font-size: 14px; TEXT-DECORATION: none; font-weight: bold; COLOR: #BB2222;}
+.menu_N1 {font-family: "Verdana", "Tahoma", "ARIAL CE", "ARIAL"; font-size: 14px; TEXT-DECORATION: none; font-weight: bold; COLOR: #FFFFFF;}
+
+.obsah {font-size: 14px; font-family: "Verdana", "Tahoma", "Helvetica CE", "Arial"; TEXT-DECORATION: none; font-weight: normal; COLOR: #202020;}
+.Nadpisek {font-size: 20px; font-family: "Tahoma", "Verdana", "Helvetica CE", "Arial"; TEXT-DECORATION: none; font-weight: normal; COLOR: #2222A0;}
+.PodNadpis {font-size: 18px; font-family: "Tahoma", "Verdana", "Helvetica CE", "Arial"; TEXT-DECORATION: none; font-weight: normal; COLOR: #202020;}
+.Nadpis {font-size: 22px; font-family: "Tahoma", "Verdana", "Helvetica CE", "Arial"; TEXT-DECORATION: none; font-weight: normal; COLOR: #BB0F0F;}
+.Nadpis_small {font-size: 16px; font-family: "Tahoma", "Verdana", "Helvetica CE", "Arial"; TEXT-DECORATION: none; font-weight: normal; COLOR: #002060; TEXT-ALIGN: JUSTIFY;}
+
+.odstavec {font-size: 14px; font-family: "Verdana", "Tahoma", "Helvetica CE", "Arial"; COLOR: #202020; TEXT-ALIGN: JUSTIFY;}
+.Text_UNF {font-size: 14px; font-family: "Verdana", "Tahoma", "Helvetica CE", "Arial"; COLOR: #202020;}
+.Text_Blok {font-size: 12px; font-family: "Verdana", "Tahoma", "Helvetica CE", "Arial"; COLOR: #202020; TEXT-ALIGN: JUSTIFY;}
+
+.Nabidka {font-size: 12px; font-family: "Verdana", "Tahoma", "Helvetica CE", "Arial"; COLOR: #202020; TEXT-ALIGN: JUSTIFY;}
+.Col_Size {font-size: 9px; font-family: "Verdana", "Tahoma", "Helvetica CE", "Arial"; TEXT-ALIGN: RIGHT;}
+.Col_Size_01 {font-size: 9px; font-family: "Verdana", "Tahoma", "Helvetica CE", "Arial"; COLOR: #202020; TEXT-ALIGN: RIGHT;}
+
+TEXTAREA, SELECT {background-color: #FAFAFA;}
